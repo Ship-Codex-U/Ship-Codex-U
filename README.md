@@ -1,4 +1,5 @@
-## Hi there 👋
+## Holaa a todos :)
+Soy Gustavo Hernández, un futuro ingeniero en computación de la Universidad de Guadalajara 
 
 <!--
 **Ship-Codex-U/Ship-Codex-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
